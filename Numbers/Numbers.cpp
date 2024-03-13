@@ -47,7 +47,7 @@ void FindDesiredNumbers(std::string EvenParameter, int N)
     }
 }
 
-int main()
+/*int main()
 {
     int Even, Num;
     std::string NumberParity;
@@ -65,3 +65,4 @@ int main()
         
     return 0;
 }
+*/
